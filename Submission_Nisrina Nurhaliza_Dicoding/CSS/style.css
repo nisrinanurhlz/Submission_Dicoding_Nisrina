@@ -14,18 +14,6 @@
     height : 100px;
 }
 
-.my-element {
-  /* Style yg dipake sama semua size */
-
-  @media (min-width: 768px) {
-    /* Style yg dipake sama resolusi 768px ke atas */
-  }
-
-  @media (max-width: 767px) {
-    /* Styles utk ukuran layar 767px ke bawah */
-  }
-}
-
 .ul-navbar {
     display: flex;
     height: 100px;
